@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to right, #eef7ff, #d9ecff);
+  background: #f8fbff;
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 40px;
@@ -8,10 +8,12 @@ body {
 
 h1 {
   font-size: 48px;
+  color: #3a4a5a;
 }
 
 p {
   font-size: 22px;
+  color: #5c6b7a;
 }
 
 button {
@@ -22,11 +24,11 @@ button {
   cursor: pointer;
   background: white;
   color: #2c3e50;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
 button:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 
 img {
@@ -34,5 +36,5 @@ img {
   max-width: 100%;
   border-radius: 15px;
   margin-top: 20px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
