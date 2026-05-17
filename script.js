@@ -1,3 +1,5 @@
-console.log("Website loaded successfully!");
+function showMessage() {
+  alert("Hello from Sonia's GitHub website!");
+}
 
-alert("Welcome to Sonia's GitHub Page!");
+console.log("JavaScript connected successfully!");
