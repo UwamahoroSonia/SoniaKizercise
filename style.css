@@ -1,10 +1,19 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: linear-gradient(to right, #dfe9f3, #ffffff);
   text-align: center;
   padding: 40px;
 }
 
 h1 {
   color: darkblue;
+  font-size: 48px;
+}
+
+img {
+  width: 600px;
+  max-width: 100%;
+  border-radius: 12px;
+  margin-top: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
