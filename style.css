@@ -1,5 +1,5 @@
 body {
-  background: #f8fbff;
+  background: #A7C7E7;
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 40px;
@@ -8,12 +8,12 @@ body {
 
 h1 {
   font-size: 48px;
-  color: #3a4a5a;
+  color: white;
 }
 
 p {
   font-size: 22px;
-  color: #5c6b7a;
+  color: #f8fbff;
 }
 
 button {
